@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Chaima Mehri</h1>
-<h3 align="center">I am a passionate software engineer with a strong interest in artificial intelligence, machine learning, and data science. I have experience working on a variety of software projects</h3>
+<h3 align="center">I am a passionate software engineer with a strong interest in artificial intelligence and data science. I have experience working on a variety of software projects</h3>
 <img align="right" alt="coding" width="400", src="https://cdn3.helpmonks.com/content/images/size/w600/2021/08/helpmonks-burnout-1.png">
 - 🔭 I’m currently working on **neural search engine**
 
