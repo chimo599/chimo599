@@ -1,9 +1,7 @@
 <h1 align="center">Hi 👋, I'm Chaima Mehri</h1>
 <h3 align="center">I am a passionate software engineer with a strong interest in artificial intelligence and data science. I have experience working on a variety of software projects</h3>
 <img align="right" alt="coding" width="400", src="https://finwave.co/images/gif/Why_Us-6.gif">
-- 🔭 I’m currently working on **neural search engine**
 
-- 🌱 I’m currently learning **Jina AI**
 
 - 👨‍💻 All of my projects are available at [https://github.com/chimo599](https://github.com/chimo599)
 
